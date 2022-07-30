@@ -15,7 +15,7 @@ Hi there 👋
 
 <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" /> <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" /><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=zluvsand&show_icons=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=laksh2022&show_icons=true"/>
           
           
                     
