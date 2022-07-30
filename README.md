@@ -1,11 +1,8 @@
 Hi there 👋
 
 * 👀 I am **Lakshmanan**, working as an Associate Projects at Cognizant
-
 * 💻 I'm a Quality Engineering & Assurance Tester
-
 * 💞 Interests: Learning Codes, Listening Songs,
-
 * 😄 Pronouns: he/him
 
 [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/laksh2022)
