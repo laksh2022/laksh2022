@@ -2,7 +2,7 @@ Hi there 👋
 
 * 👀 I am **Lakshmanan**, working as an Associate Projects at Cognizant
 * 💻 I'm a Quality Engineering & Assurance Tester
-* 💞 Interests: Learning Codes, Listening Songs, Watching Movies, Travel
+* 💞 Interests: Learning new project related things, Listening Songs, Watching Movies, Travel
 * 😄 Pronouns: he/him
 
 ### Connect me:
