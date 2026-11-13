@@ -1,7 +1,7 @@
 Hi there 👋
 
-* 👀 I am **Lakshmanan**, working as an Associate Projects at Cognizant
-* 💻 I'm a Quality Engineering & Assurance Tester
+* 👀 I am **Lakshmanan**, working as Senior SDET at Cognizant
+* 💻 I'm a Senior SDET
 * 💞 Interests: Learning new project related things, Listening Songs, Watching Movies, Travel
 * 😄 Pronouns: he/him
 
